@@ -1,3 +1,3 @@
 # Deep Learning Project
 
-Image classification with CNN, transfer learning, knn and XGB
+Classification of Alzheimer disease on MRI images with CNN, MobileNet, Inception-Resnet-V2, KNN and XGB
